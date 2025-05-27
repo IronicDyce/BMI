@@ -62,6 +62,7 @@ export default function Page() {
     <div className="p-6 max-w-6xl mx-auto flex flex-col lg:flex-row gap-6">
       <div className="lg:w-2/3">
         <h1 className="text-3xl font-bold text-center mb-6">🎀 Boob Mass Index Calculator 🎀</h1>
+        <img src="/images/bmi.png" alt="Boob Mass Index Visual" class="mx-auto mb-6 max-w-xs rounded-lg shadow-md" />
 
         <div className="bg-white p-4 mb-6 rounded shadow">
           <div className="space-y-4">
