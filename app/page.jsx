@@ -159,7 +159,7 @@ export default function Page() {
           <h3 className="text-lg font-bold mb-2">💸 Buy $BMI Token</h3>
           <p className="mb-4">Join the jiggle-powered economy! Buy $BMI on Pump.fun and invest in bounce-backed assets.</p>
           <a
-            href="https://pump.fun/coin/JCS7QiuzxNtTFD8fvMi6icqFimU1sS6n4jsH8dv8L5ks"
+            href="https://pump.fun/coin/8ztHvFb6V5Y2oKLTaDE5j3Nr9t5bpEm1F7JZsbu1c16v"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block bg-green-500 text-white px-4 py-2 rounded hover:bg-green-600"
